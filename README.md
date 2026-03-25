@@ -118,7 +118,8 @@ cmotor4();
 delay_ms(50);
 }
 }
-``
+```
+
 ## Output:
 
 <img width="903" height="880" alt="image" src="https://github.com/user-attachments/assets/961f9fcd-68d9-45e1-aa3f-4b685e063592" />
